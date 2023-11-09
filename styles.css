@@ -1,0 +1,6 @@
+.img-thumbnail {
+    object-fit: cover;
+    overflow: hidden;
+    height: 358px; 
+    width : 358px;
+  }
