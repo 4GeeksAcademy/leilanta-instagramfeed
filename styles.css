@@ -3,4 +3,10 @@
     overflow: hidden;
     height: 358px; 
     width : 358px;
+    border-style: none;
+  }
+
+.card-img {
+    border-radius: 0; /* Anula el borde redondeado */
+    object-fit: fill;
   }
